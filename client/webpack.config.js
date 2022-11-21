@@ -19,13 +19,15 @@ module.exports = () => {
     plugins: [
       new InjectManifest({
         swSrc: "./src-sw.js",
-        swDest: "service-worker.js",
+        swDest: "src-sw.js",
       }),
       new HtmlWebpackPlugin({
         template: "./index.html",
         title: "Webpack Plugin",
       }),
       new WebpackPwaManifest({
+        fingerprints: false,
+        inject: true,
         name: "Just Another Test Editor",
         short_name: "JATE",
         description: "Edits text",
