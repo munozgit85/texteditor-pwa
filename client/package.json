@@ -164,7 +164,6 @@
     "hpack.js": "^2.1.6",
     "html-entities": "^2.3.3",
     "html-minifier-terser": "^6.1.0",
-    "html-webpack-plugin": "^5.5.0",
     "htmlparser2": "^6.1.0",
     "http-deceiver": "^1.2.7",
     "http-errors": "^2.0.0",
@@ -456,6 +455,7 @@
   "license": "ISC",
   "devDependencies": {
     "css-loader": "^6.7.2",
+    "html-webpack-plugin": "^5.5.0",
     "style-loader": "^3.3.1"
   }
 }
