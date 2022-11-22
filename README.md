@@ -66,6 +66,13 @@ in CLI type in
 
 # Screenshot
 
+![texteditorphoto1](https://user-images.githubusercontent.com/107218022/203397822-25785359-4d57-4001-aa2f-dfa421870a6c.png)
+
+![texteditorphoto2](https://user-images.githubusercontent.com/107218022/203397836-089629bd-5f2b-4a3c-aff4-3146c6b761a5.png)
+
+![texteditorphoto3](https://user-images.githubusercontent.com/107218022/203397847-970ffe8c-491b-4787-935d-bf7edd68aabb.png)
+
+
 ## Github/Heroku
 
 Github repository /Heroku deployed application
