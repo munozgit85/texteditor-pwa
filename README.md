@@ -23,19 +23,21 @@ IndexDB. The application is also installable for your device.
 
 ## Installation
 
-ensure already have Node https://nodejs.org/en/download/
+Ensure that Node is already installed https://nodejs.org/en/download/
 
 - Install webpack plugins : https://webpack.js.org/
-  in CLI type in
-  `npm i --save-dev html-webpack-plugin`
-  `npm i --save-dev webpack-pwa-manifest`
-  `npm i --save-dev workbox-webpack-plugin`
-  `npm i --save-dev babel-loader`
-  `npm install --save-dev style-loader`
-  `npm i --save-dev css-loader`
-  Install IndexDB : Type in CLI `npm i idb`
-  Type `npm init` in terminal and answer the prompts for npm.
-  Type `npm i` in terminal to instal node modules and packages.
+in CLI type in
+  <ul>
+<ol>`npm i --save-dev html-webpack-plugin` </ol>
+<ol>`npm i --save-dev webpack-pwa-manifest`</ol>
+<ol>`npm i --save-dev workbox-webpack-plugin` </ol>
+<ol>`npm i --save-dev babel-loader` </ol>
+<ol>`npm install --save-dev style-loader`</ol> 
+<ol>`npm i --save-dev css-loader`</ol>
+</ul>
+- Install IndexDB : Type in CLI `npm i idb`
+- Type `npm init` in terminal and answer the prompts for npm.
+- Type `npm i` in terminal to instal node modules and packages.
 
 ## Usage
 
